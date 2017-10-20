@@ -1,0 +1,15 @@
+{
+  "name": "custom-metadata",
+  "version": "1.0.0",
+  "description": "A small project to show off searching with custom metadata and visual similarity using Clarifai",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clarifai": "^2.4.0",
+    "csv-parse": "^1.2.4"
+  }
+}
