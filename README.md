@@ -12,7 +12,8 @@ From there you need to be sure to have [NodeJS](https://nodejs.org/en/downloads)
 installed for the appropriate operating system.
 
 You can clone down this repository! Then when you go inside your fresh repo, 
-run a small `npm install` to get both `csv-parse` and `clarifai` installed!
+run a small `npm install` to get both [`csv-parse`](https://github.com/adaltas/node-csv-parse) 
+and [`clarifai`](https://github.com/clarifai/clarifai-javascript) installed!
 
 ### Usage
 
