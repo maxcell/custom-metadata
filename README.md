@@ -15,6 +15,14 @@ You can clone down this repository! Then when you go inside your fresh repo,
 run a small `npm install` to get both [`csv-parse`](https://github.com/adaltas/node-csv-parse) 
 and [`clarifai`](https://github.com/clarifai/clarifai-javascript) installed!
 
+One important thing, unlike the blog post, I chose to use the environment variables
+approach to including your keys. To setup a `CLARIFAI_API_KEY` environment variables,
+head over to terminal and write:
+
+```bash
+$ export CLARIFAI_API_KEY="YOUR_API_KEY"
+```
+
 ### Usage
 
 If you want to upload the [csv](https://raw.githubusercontent.com/maxcell/custom-metadata/master/shoe-data.csv),
