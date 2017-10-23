@@ -1,25 +1,25 @@
-productId,type,color,brand,price,sale,imageSrc
-1,sneakers,black,adidas,50,TRUE,https://farm4.staticflickr.com/3648/3344620322_0c62fd8ef2_o_d.jpg
-2,sneakers,white,nike,60,FALSE,https://farm6.staticflickr.com/5307/5612120995_ce38bd416c_o_d.jpg
-1,sneakers,black,adidas,40,TRUE,https://farm4.staticflickr.com/3360/3343786033_4897f4260e_o_d.jpg
-3,sneakers,black,adidas,30,TRUE,https://farm4.staticflickr.com/3394/3344620614_39a557d241_o_d.jpg
-3,sneakers,black,adidas,50,TRUE,https://farm4.staticflickr.com/3349/3343786415_db56a05cb6_o_d.jpg
-4,sneakers,white,adidas,40,FALSE,https://farm4.staticflickr.com/3321/3344621328_27b8254dd1_o_d.jpg
-2,sneakers,white,nike,30,FALSE,https://farm6.staticflickr.com/5190/5612120989_4ef69f70dd_o_d.jpg
-5,sneakers,black,boss stiven,20,TRUE,https://farm9.staticflickr.com/8566/16704832815_f9f85d4c97_z_d.jpg
-6,sneakers,brown,boss stiven,70,FALSE,https://farm9.staticflickr.com/8566/16517750308_5e7a060016_z_d.jpg
-7,sneakers,blue,superga,30,TRUE,https://farm9.staticflickr.com/8663/16734523231_e845a5bab5_z_d.jpg
-8,dress,red,lolita,80,FALSE,https://farm8.staticflickr.com/7063/6845102447_8c2067939d_o_d.jpg
-9,dress,brown,aldo,75,FALSE,https://farm3.staticflickr.com/2859/10573290036_eaaec0e6dd_z_d.jpg
-10,dress,brown,brooks brothers,67,TRUE,https://farm6.staticflickr.com/5598/14973962013_c9ec89c5be_z_d.jpg
-11,dress,brown,allen edmonds,25,TRUE,https://farm3.staticflickr.com/2923/14064895438_19c067df50_z_d.jpg
-12,dress,brown,allen edmonds,70,FALSE,https://farm6.staticflickr.com/5522/14228404486_5a4c71b7ac_z_d.jpg
-13,sneakers,red,marina militare,40,TRUE,https://farm9.staticflickr.com/8696/16926014516_b92caca014_z_d.jpg
-13,sneakers,red,marina militare,45,FALSE,https://farm9.staticflickr.com/8735/16744597477_39a6954fb4_z_d.jpg
-14,sneakers,red,michael kors,60,FALSE,https://farm9.staticflickr.com/8574/16507499829_91774ff502_z_d.jpg
-14,sneakers,red,michael kors,80,FALSE,https://farm9.staticflickr.com/8577/16507501459_4227de614e_z_d.jpg
-15,slippers,silver,john baker,20,TRUE,https://farm9.staticflickr.com/8623/16647087286_be64ea4afb_z_d.jpg
-16,slippers,silver,michael kors,78,FALSE,https://farm9.staticflickr.com/8566/16693061802_ce9cd128c4_z_d.jpg
-17,slippers,black,john baker,21,TRUE,https://farm8.staticflickr.com/7407/16448885035_79aca5ce48_z_d.jpg
-18,slippers,brown,john baker,50,FALSE,https://farm9.staticflickr.com/8570/16697534682_c22f3e6e0a_z_d.jpg
-19,sneakers,black,puma,60,TRUE,https://farm7.staticflickr.com/6064/6068307090_986b3fe241_o_d.jpg
+productId,type,color,brand,price,sale,inStock,imageSrc
+1,sneakers,black,adidas,50,TRUE,TRUE,https://farm4.staticflickr.com/3648/3344620322_0c62fd8ef2_o_d.jpg
+2,sneakers,white,nike,60,FALSE,FALSE,https://farm6.staticflickr.com/5307/5612120995_ce38bd416c_o_d.jpg
+1,sneakers,black,adidas,40,TRUE,TRUE,https://farm4.staticflickr.com/3360/3343786033_4897f4260e_o_d.jpg
+3,sneakers,black,adidas,30,TRUE,TRUE,https://farm4.staticflickr.com/3394/3344620614_39a557d241_o_d.jpg
+3,sneakers,black,adidas,50,TRUE,TRUE,https://farm4.staticflickr.com/3349/3343786415_db56a05cb6_o_d.jpg
+4,sneakers,white,adidas,40,FALSE,FALSE,https://farm4.staticflickr.com/3321/3344621328_27b8254dd1_o_d.jpg
+2,sneakers,white,nike,30,FALSE,FALSE,https://farm6.staticflickr.com/5190/5612120989_4ef69f70dd_o_d.jpg
+5,sneakers,black,boss stiven,20,TRUE,TRUE,https://farm9.staticflickr.com/8566/16704832815_f9f85d4c97_z_d.jpg
+6,sneakers,brown,boss stiven,70,FALSE,FALSE,https://farm9.staticflickr.com/8566/16517750308_5e7a060016_z_d.jpg
+7,sneakers,blue,superga,30,TRUE,FALSE,https://farm9.staticflickr.com/8663/16734523231_e845a5bab5_z_d.jpg
+8,dress,red,lolita,80,FALSE,FALSE,https://farm8.staticflickr.com/7063/6845102447_8c2067939d_o_d.jpg
+9,dress,brown,aldo,75,FALSE,FALSE,https://farm3.staticflickr.com/2859/10573290036_eaaec0e6dd_z_d.jpg
+10,dress,brown,brooks brothers,67,TRUE,TRUE,https://farm6.staticflickr.com/5598/14973962013_c9ec89c5be_z_d.jpg
+11,dress,brown,allen edmonds,25,TRUE,FALSE,https://farm3.staticflickr.com/2923/14064895438_19c067df50_z_d.jpg
+12,dress,brown,allen edmonds,70,FALSE,TRUE,https://farm6.staticflickr.com/5522/14228404486_5a4c71b7ac_z_d.jpg
+13,sneakers,red,marina militare,40,TRUE,TRUE,https://farm9.staticflickr.com/8696/16926014516_b92caca014_z_d.jpg
+13,sneakers,red,marina militare,45,FALSE,TRUE,https://farm9.staticflickr.com/8735/16744597477_39a6954fb4_z_d.jpg
+14,sneakers,red,michael kors,60,FALSE,TRUE,https://farm9.staticflickr.com/8574/16507499829_91774ff502_z_d.jpg
+14,sneakers,red,michael kors,80,FALSE,TRUE,https://farm9.staticflickr.com/8577/16507501459_4227de614e_z_d.jpg
+15,slippers,silver,john baker,20,TRUE,FALSE,https://farm9.staticflickr.com/8623/16647087286_be64ea4afb_z_d.jpg
+16,slippers,silver,michael kors,78,FALSE,FALSE,https://farm9.staticflickr.com/8566/16693061802_ce9cd128c4_z_d.jpg
+17,slippers,black,john baker,21,TRUE,FALSE,https://farm8.staticflickr.com/7407/16448885035_79aca5ce48_z_d.jpg
+18,slippers,brown,john baker,50,FALSE,TRUE,https://farm9.staticflickr.com/8570/16697534682_c22f3e6e0a_z_d.jpg
+19,sneakers,black,puma,60,TRUE,TRUE,https://farm7.staticflickr.com/6064/6068307090_986b3fe241_o_d.jpg
